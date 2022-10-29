@@ -4,7 +4,7 @@ $user = "root";
 $password = "";  
 $host = "localhost";  
 $dbase = "newslettersdb";  
-$table = "letters";  
+$table = "news";  
  
 
 $pass= $_POST['pass']; 
